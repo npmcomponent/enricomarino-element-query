@@ -1,0 +1,12 @@
+{
+  "name": "enricomarino-element-query",
+  "description": "query selector plugin for element",
+  "version": "0.0.1",
+  "keywords": [
+    "query",
+    "selector",
+    "element"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
